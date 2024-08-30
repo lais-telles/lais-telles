@@ -8,7 +8,7 @@ Currently looking for opportunities and here i'll be documenting my evolution as
 
 **Occupation**: Student <br>
 **Courses**: FCE (First Certificate In English) - Cambridge, TOEFL.<br>
-**Graduation**: Fourth semester in Systems Analysis and Development.
+**Graduation**: Fifth semester in Systems Analysis and Development.
 
 ## 🛠️ Languages and tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
