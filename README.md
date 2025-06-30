@@ -21,12 +21,10 @@ Currently, I work as a development intern at the Institute of Chemistry at Unica
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4624?style=for-the-badge&logo=codeigniter&logoColor=white)
 
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📱You can find me here: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lais-rangel-5b9ab0265/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laismtelles@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lais.telless) 
-
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lais-telles&layout=compact&bg_color=000&border_color=30A3DC&title_color=C71585&text_color=FFF)
-
